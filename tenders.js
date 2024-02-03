@@ -1,1 +1,1 @@
-$('#tendie').on('hover', () => alert("hi!"));
+document.getElementById('tendie').addEventListener("mouseover", () => alert("hi!"));
